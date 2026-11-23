@@ -12,12 +12,12 @@ const drums = document.querySelectorAll(".drum-pad");
 
 const drumSounds = {
 
-    a: new Audio("sounds/kick.wav"),
-    s: new Audio("sounds/snare.wav"),
-    d: new Audio("sounds/hihat.wav"),
-    f: new Audio("sounds/tom.wav"),
-    g: new Audio("sounds/crash.wav"),
-    h: new Audio("sounds/clap.wav")
+    a: new Audio("kick.wav"),
+    s: new Audio("snare.wav"),
+    d: new Audio("hihat.wav"),
+    f: new Audio("tom.wav"),
+    g: new Audio("crash.wav"),
+    h: new Audio("clap.wav")
    
 };
 
